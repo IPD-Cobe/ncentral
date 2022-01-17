@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><InstallationData>
+    <ActivationKey/>
+    <Customer>
+        <ID>277</ID>
+        <Name>73ce6fb2011bb33ebe5cf9920012ec777bc5daa69c8e793ee4e865f7c7029bcd</Name>
+    </Customer>
+    <RegistrationToken>4c35603b-7ca4-dabd-5e89-2e2f1ff520b9</RegistrationToken>
+    <Server>
+        <URL>ncentral.ipdimension.net</URL>
+        <Protocol>https</Protocol>
+        <Port>443</Port>
+    </Server>
+    <Proxy>
+        <URL/>
+        <Port/>
+    </Proxy>
+</InstallationData>
